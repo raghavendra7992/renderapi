@@ -1,0 +1,26 @@
+{
+  "name": "renderapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavendra7992/renderapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghavendra7992/renderapi/issues"
+  },
+  "homepage": "https://github.com/raghavendra7992/renderapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json": "^11.0.0",
+    "json-serve": "^0.1.0",
+    "server": "^1.0.38"
+  }
+}
