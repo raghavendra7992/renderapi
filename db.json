@@ -1,21 +1,4 @@
 {
-    "admin": [
-      {
-        "id": 1,
-        "username": "admin@gmail.com",
-        "password": "masai"
-      }
-    ],
-    "user": [
-      {
-        "id": 1,
-        "username": "Raghavendra Singh",
-        "email": "raju@gmail.com",
-        "password": "12345",
-        "repassword": "12345"
-      }
-    ],
-    {
   "cars": [
     {
       "id": 1,
@@ -37,4 +20,3 @@
     }
   ]
 }
-  }
